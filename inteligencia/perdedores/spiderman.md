@@ -11,3 +11,8 @@ Spiderman
 
 - venom
 - Electro
+
+## Conocidos
+
+- Mary Jane
+- Harry Osborn
