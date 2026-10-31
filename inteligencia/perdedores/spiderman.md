@@ -6,3 +6,8 @@ Spiderman
 
 - Doctor Octopus
 - Green Goblin
+
+## Enemigos mortales
+
+- venom
+- Electro
